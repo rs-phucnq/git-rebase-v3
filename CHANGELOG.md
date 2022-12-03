@@ -1,3 +1,11 @@
+# v1.0.1 - 20221203
+
+* [rs-06] Remove NAL content on sample file
+[PR#8] (https://github.com/rs-phucnq/git-rebase-v3/pull/8)
+
+* [rs-05] Add content NAL to sample file
+[PR#6] (https://github.com/rs-phucnq/git-rebase-v3/pull/6)
+
 # v1.0.0 - 20221203
 
 * [rs-04] Remove EST content on sample file
